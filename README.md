@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=FFB6D9&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Tsabitah+Elysia+Krismananda✨;Full+Stack+Developer+%F0%9F%92%BB;Passionate+About+Code+%26+Design+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=A1BC98&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Tsabitah+Elysia+Krismananda✨;Full+Stack+Developer+%F0%9F%92%BB;Passionate+About+Code+%26+Design+%F0%9F%8C%B8" alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🍓 Welcome 🌸
+### 🍵 Welcome 🍀
 
 📍 **Surabaya, Indonesia** | 💻 **Full Stack Developer**  
 
@@ -16,7 +16,7 @@
 
 </div>
 
-## 🌸 About Me
+## 🍀 About Me
 
 Hey there! I'm a **full stack developer** who absolutely loves bringing ideas to life through code. When I'm not coding, you'll probably find me sleeping or dreaming about the next cool project to build. 😴✨
 
@@ -28,7 +28,7 @@ I'm deeply passionate about:
 - 🔧 Developing **clean, maintainable, and scalable solutions** that support operational efficiency
 ---
 
-## 🍓 Fun Facts About Me
+## 🍵 Fun Facts About Me
 
 ```
 🍵 I Love Matcha
