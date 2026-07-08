@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=778873&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Tsabitah+Elysia+Krismananda✨;Full+Stack+Developer+%F0%9F%92%BB;Passionate+About+Code+%26+Design+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=B1D3B9&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Tsabitah+Elysia+Krismananda✨;Full+Stack+Developer+%F0%9F%92%BB;Passionate+About+Code+%26+Design+%F0%9F%8C%B8" alt="Typing SVG" />
 
 </div>
 
@@ -71,15 +71,15 @@ I'm deeply passionate about:
 <div align="center">
 
 <picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciia&show_icons=true&theme=rose&hide_border=true&bg_color=fff0f5&title_color=FFB6D9&text_color=666&icon_color=FFB6D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TsabitahEl&show_icons=true&theme=rose&hide_border=true&bg_color=fff0f5&title_color=FFB6D9&text_color=666&icon_color=FFB6D9"/>
 </picture>
 
 <picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciia&layout=compact&theme=rose&hide_border=true&bg_color=fff0f5&title_color=FFB6D9&text_color=666"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsabitahEl&layout=compact&theme=rose&hide_border=true&bg_color=fff0f5&title_color=FFB6D9&text_color=666"/>
 </picture>
 
 <picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cciia&theme=rose&hide_border=true&background=fff0f5&stroke=FFB6D9&ring=FFB6D9&fire=FFB6D9&currStreakNum=FFB6D9&dates=666"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TsabitahEl&theme=rose&hide_border=true&background=fff0f5&stroke=FFB6D9&ring=FFB6D9&fire=FFB6D9&currStreakNum=FFB6D9&dates=666"/>
 </picture>
 
 </div>
